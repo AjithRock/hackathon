@@ -1,0 +1,19 @@
+ {
+    "id": 1,
+    "name": "Laptop Pro X",
+    "description": "Powerful laptop with high-resolution display and fast processor.",
+    "price": 1299.99,
+    "category": "Electronics",
+    "brand": "TechCo",
+    "inStock": true,
+    "rating": 4.5,
+    "imageUrl": "https://example.com/images/laptop-pro-x.jpg",
+    "reviews":[
+      {
+        "id":1,
+        "name":"ajith",
+        "review":"good product used for more than 1 year with out any issue"
+      }
+
+    ]
+  }
